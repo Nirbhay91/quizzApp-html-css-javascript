@@ -1,3 +1,13 @@
+https://www.codingnepalweb.com/quiz-app-with-timer-javascript/
+
+https://www.youtube.com/watch?v=WUBhpSRS_fk
+
+https://www.youtube.com/watch?v=pQr4O1OITJo
+
+
+In this program [Quiz App with Timer], there are three layers or boxes, and these boxes shown one by one on a particular button clicked. At first, on the webpage, there is shown a button labeled as “Start Quiz” and when you clicked on that button, then the info box appears with popup animation.
+
+In this infobox, there are some rules of the quiz and two buttons labeled as “Exit” and “Continue”. When you clicked on the Exit button, the info box will be hidden but when you clicked on the Continue button, then the Quiz Box appears
 
 In the Quiz Box, there is a header with a title on the left side and a timer box on the right side. This timer starts decrement from 15 to 0 sec and there is also shown a timeline indicator that is sliding from the left to right side according to the timer. If the user selects an option between 15 to 0 sec, the timer will be stopped and all available options will be disabled.
 
